@@ -5,6 +5,7 @@
 - [Images](#images)
 - [Icons](#icons)
 - [Color](#color)
+- [JavaScript Animation](#javaScript-animation)
 - [Slider](#slider)
 - [Zoom](#zoom)
 - [Scrollbar](#scrollbar)
@@ -23,6 +24,10 @@
 ## Color
 
 - [colorsinspo](https://colorsinspo.com/)
+
+## JavaScript Animation
+
+- [createjs](https://createjs.com)
 
 ## Slider
 
