@@ -11,6 +11,7 @@
 - [Scrollbar](#scrollbar)
 - [Lucky Draw](#lucky-draw)
 - [Typing Tutor](#typing-tutor)
+- [Other](#other)
 
 ## Images
 
@@ -28,6 +29,7 @@
 ## JavaScript Animation
 
 - [createjs](https://createjs.com)
+- [HTMLDOM](https://htmldom.dev/)
 
 ## Slider
 
@@ -55,3 +57,7 @@
 ## Typing Tutor
 
 - [keybr](https://www.keybr.com/)
+
+## Other
+
+- [Bradtraversy](https://github.com/bradtraversy/design-resources-for-developer)
