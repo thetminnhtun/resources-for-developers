@@ -5,17 +5,20 @@
 - [Images](#images)
 - [Icons](#icons)
 - [Color](#color)
+- [HTML & CSS Template](#html-css-template)
 - [JavaScript Animation](#javaScript-animation)
 - [Slider](#slider)
 - [Zoom](#zoom)
 - [Scrollbar](#scrollbar)
 - [Lucky Draw](#lucky-draw)
+- [Code Share](#code-share)
 - [Typing Tutor](#typing-tutor)
 - [Other](#other)
 
 ## Images
 
-- [unsplash](https://unsplash.com/)
+- [Unsplash](https://unsplash.com/)
+- [Freepik](https://www.freepik.com/)
 
 ## Icons
 
@@ -26,10 +29,17 @@
 
 - [colorsinspo](https://colorsinspo.com/)
 
+## HTML & CSS Template
+
+- [Pro Sidebar Template](https://github.com/azouaoui-med/pro-sidebar-template)
+- [Dribbble](https://dribbble.com/shots/popular/web-design)
+- [Html5up](https://html5up.net/)
+
 ## JavaScript Animation
 
-- [createjs](https://createjs.com)
+- [Createjs](https://createjs.com)
 - [HTMLDOM](https://htmldom.dev/)
+- [Menucool](http://www.menucool.com/)
 
 ## Slider
 
@@ -53,6 +63,10 @@
 
 - [jQuery-SlotMachi](https://josex2r.github.io/jQuery-SlotMachi)
 - [jquery-jslots](https://matthewlein.com/tools/jquery-jslots)
+
+## Code Share
+
+- [Carbon](https://carbon.now.sh/)
 
 ## Typing Tutor
 
