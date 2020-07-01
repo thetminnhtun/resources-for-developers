@@ -60,4 +60,4 @@
 
 ## Other
 
-- [Bradtraversy](https://github.com/bradtraversy/design-resources-for-developer)
+- [Bradtraversy](https://github.com/bradtraversy/design-resources-for-developers)
