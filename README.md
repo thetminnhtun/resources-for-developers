@@ -14,7 +14,6 @@
 - [Code Share](#code-share)
 - [Typing Tutor](#typing-tutor)
 - [Audio](#audio)
-- [Other](#other)
 
 ## Images
 
@@ -78,8 +77,3 @@
 | Name | Description |
 |---|---|
 | [Soundjay](https://www.soundjay.com/)  | Free Sound Effects  |
-
-
-## Other
-
-- [Bradtraversy](https://github.com/bradtraversy/design-resources-for-developers)
