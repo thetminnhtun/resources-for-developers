@@ -32,6 +32,7 @@
 | Name | Description |
 |---|---|
 | [colorsinspo](https://colorsinspo.com) | Collection beautiful color palettes  |
+| [Web Gradients](https://webgradients.com) | WebGradients is a free collection of 180 linear gradients  |
 
 ## Code Share
 
