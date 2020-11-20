@@ -8,6 +8,7 @@
 - [Design](#design)
 - [Dummy API](#dummy-api)
 - [HTML & CSS Template](#html-&-css-template)
+- [Themes](#themes)
 - [Icons](#icons)
 - [Images](#images)
 
@@ -50,6 +51,12 @@
 |---|---|
 | [Pro Sidebar Template](https://github.com/azouaoui-med/pro-sidebar-template) | Responsive sidebar template with dropdown menu based on bootstrap framwork  |
 | [Html5up](https://html5up.net) | Beautiful HTML5 template  |
+
+## Themes
+
+| Name | Description |
+|---|---|
+| [themehunt](https://themehunt.com/) | Free Bootstrap Templates & Website Themes |
 
 ## Icons
 
