@@ -18,6 +18,7 @@
 | Name | Description |
 |---|---|
 | [Soundjay](https://www.soundjay.com/)  | Free Sound Effects  |
+| [Free Sound](https://freesound.org/browse/tags/music)  | Free Sound Effects  |
 
 ## Color
 
